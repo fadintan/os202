@@ -23,3 +23,5 @@
 * [Week 08](W08/)
 * [Week 09](W09/)
 * [Week 10](W10/)
+
+<img src="158684.jpg" width="256">
