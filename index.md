@@ -1,5 +1,5 @@
 # Hello there! (｡･∀･)ﾉﾞ
-My name is Intan Fadilla. Welcome to my **[Page]**(https://fadintan.github.io/os202/)! Are you looking for my **[GitHub Repo]**(https://github.com/fadintan/os202/)? Or **[My Log]**(TXT/mylog.txt)? ( ͡• ͜ʖ ͡• )
+My name is Intan Fadilla. Welcome to my **[Page](https://fadintan.github.io/os202/)**! Are you looking for my **[GitHub Repo](https://github.com/fadintan/os202/)**? Or **[My Log](TXT/mylog.txt)**? ( ͡• ͜ʖ ͡• )
 <br>
 <hr>
 <br>
