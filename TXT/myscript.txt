@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Script ini berguna untuk membantu menambahkan top 3 rank ke dalam myrank.txt
+# Akan diminta input minggu (Wxx), dan id github top 3
+
+# Define filename
+filename='myrank.txt'
+
+echo "I'll help you update the Top 3 Rank to myrank.txt~"
+echo "You just need to fill in this form and i'll do the magic! :D"
+
+# Masukkan input minggu dan id github
+read -p "Enter Week: " newweek
+read -p "Enter your 1st Top 3: " first
+read -p "Enter your 2nd Top3: " second
+read -p "Enter your 3rd Top3: " third
+
+# Append variables ke file myrank.txt
+printf "ZCZC $newweek $first\n" >> $filename
+printf "ZCZC $newweek $second\n" >> $filename
+printf "ZCZC $newweek $third\n" >> $filename
+echo "Rank Updated!"
