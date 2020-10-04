@@ -10,3 +10,5 @@ ZCZC W01 60 L10 Assignment (General): Installing WSL & following steps from http
 ZCZC W01 120 L08 Trying Something: Explore vim
 ZCZC W01 30 L09 Asdos: Asking about errors and how to fix it
 ZCZC W01 120 L10 Assignment (General): Doing week 01 assignments
+ZCZC W01 60 L05 GSGS related: Scripting bash, regex, sed, awk
+ZCZC W01 60 L08 Trying Something: Scripting
