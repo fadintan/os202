@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# Ini adalah script tambahan untuk membantu saya menulis log agar tidak
+# memasukkan log secara manual.
+
+filename='mylog.txt'
+read -p ">>> Enter week: " week
+echo "Let's input your log!"
+echo "L00 General Log
+L01 SCELE related
+L02 ZOOM related
+L03 GitHub related
+L04 GitHub Pages: setting, etc.
+L05 GSGS related
+L06 Reading Refereces/Books/Documents
+L07 Demo related
+L08 Trying something
+L09 AsDos: asking, etc.
+L10 Assignment (General)
+L11-20 Assignment #1-#10
+L25 C-language: study, etc.
+L23 Discord: discussion, etc.
+L26 Movie: relax, etc.
+L27 Pets: feeding, playing, etc
+L24 Udacity: study, etc.
+L21 VirtualBox: install GNU/Linux, etc.
+L22 YouTube: study, etc.
+L99 Other (...)"
+
+# conditional
+next="true"
+while (("$next"== "true"))
+do
+	read -p ">>> Duration: " dur
+	read -p ">>> Log code: " code
+	read -p ">>> Description: " desc
+	printf "ZCZC $week $dur $code $desc\n" >> $filename
+	echo "Log updated!"
+	read -p ">>> Do you want to add more? (y/n) " ans
+	if [[ "$ans" = "n" ]]
+	then
+		next="false"
+		echo "Bye!"
+		read -p ">>> control+c to exit: " ex
+	fi
+done

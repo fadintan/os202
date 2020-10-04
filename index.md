@@ -7,7 +7,7 @@ My name is Intan Fadilla. Welcome to my **[Page](https://fadintan.github.io/os20
 'Operating Systems' is so fun! I did _GSGSCICILTT*_ and I got list of interesting & important things about OS. Go check it out! (●'◡'●)
 * [Week 00](W00/)
 * [Week 01](W01/)
-* Week 02
+* [Week 02](W02/)
 * Week 03
 * Week 04
 * Week 05

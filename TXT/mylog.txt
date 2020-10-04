@@ -12,3 +12,10 @@ ZCZC W01 30 L09 Asdos: Asking about errors and how to fix it
 ZCZC W01 120 L10 Assignment (General): Doing week 01 assignments
 ZCZC W01 60 L05 GSGS related: Scripting bash, regex, sed, awk
 ZCZC W01 60 L08 Trying Something: Scripting
+ZCZC W02 120 L10 Assignment (General): W02 assignment
+ZCZC W02 30 L08 Trying Something: Make log updater script
+ZCZC W02 10 L05 GSGS Related: Bash Scripting
+ZCZC W02 30 L08 Trying Something: Bash Scripting 2
+ZCZC W02 10 L08 Trying Something: Bash Scripting 3
+ZCZC W02 10 L08 Trying Something: Bash Scripting again
+ZCZC W02 40 L10 Assignment (General): Top 10 list of the week
