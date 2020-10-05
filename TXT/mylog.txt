@@ -26,3 +26,5 @@ ZCZC W02 120 L10 Assignment (General): Continue writing Top 10 List
 ZCZC W02 10 L99 Other: Istirahat
 ZCZC W02 20 L05 GSGS Related: Security defenses, antivirus
 ZCZC W02 20 L10 Assignment (General): Finishing Top 10 List
+ZCZC W02 20 L10 Assignment (General): Fixing myscript.sh
+ZCZC W02 10 L01 Scele related: saw announcement from Dosen and figuring out what to do to myscript.sh
