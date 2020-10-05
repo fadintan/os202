@@ -41,7 +41,8 @@ then
 	echo "---------------------------------------------------------------"
 	read -p ">> Enter week: " week
 	echo "Let's input your log!"
-	echo "L00 General Log
+	echo "
+	L00 General Log
 	L01 SCELE related
 	L02 ZOOM related
 	L03 GitHub related
