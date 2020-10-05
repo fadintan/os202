@@ -13,7 +13,7 @@ echo "[2] Sign Files"
 
 read -p ">> Enter your choice: " opt
 
-if [ $(($OPTION)) -eq 1 ]
+if [ $(($opt)) -eq 1 ]
 	then
     echo "I'll help you update the Top 3 Rank to myrank.txt~"
     echo "You just need to fill in this form and i'll do the magic! :D"
@@ -30,7 +30,7 @@ if [ $(($OPTION)) -eq 1 ]
     printf "ZCZC $newweek $third\n" >> $filename
     echo "Rank Updated!"
   
-elif [ $(($OPTION)) -eq 2 ]
+elif [ $(($opt)) -eq 2 ]
 	then
     rm -f $SHA $SHA.asc
 
