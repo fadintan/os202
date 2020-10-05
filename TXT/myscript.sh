@@ -1,9 +1,7 @@
 #!/bin/bash
 # Intan Fadilla Andyani
-# Mon Sep 28 22:03:27 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
 
-filename='myrank.txt'
+file_rank='myrank.txt'
 file_log='mylog.txt'
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
@@ -15,27 +13,33 @@ echo "[3] Sign Files"
 
 read -p ">> Enter your choice: " opt
 
+# Script untuk menambahkan top 3 rank
 if [ $(($opt)) -eq 1 ]
-	then
-    echo "I'll help you update the Top 3 Rank to myrank.txt~"
-    echo "You just need to fill in this form and i'll do the magic! :D"
+then
+	echo "---------------------------------------------------------------"
+	echo "I'll help you update the Top 3 Rank to myrank.txt~"
+	echo "You just need to fill in this form and i'll do the magic! :D"
+	echo "---------------------------------------------------------------"
 
-    # Masukkan input minggu dan id github
-    read -p ">> Enter Week: " newweek
-    read -p ">> Enter your 1st Top 3: " first
-    read -p ">> Enter your 2nd Top3: " second
-    read -p ">> Enter your 3rd Top3: " third
+	# Masukkan input minggu dan id github
+	read -p ">> Enter Week: " newweek
+	read -p ">> Enter your 1st Top 3: " first
+	read -p ">> Enter your 2nd Top3: " second
+	read -p ">> Enter your 3rd Top3: " third
 
-    # Append variables ke file myrank.txt
-    printf "ZCZC $newweek $first\n" >> $filename
-    printf "ZCZC $newweek $second\n" >> $filename
-    printf "ZCZC $newweek $third\n" >> $filename
-    echo "Rank Updated!"
+	echo "---------------------------------------------------------------"
 
+	# Append variables ke file myrank.txt
+	printf "ZCZC $newweek $first\n" >> $file_rank
+	printf "ZCZC $newweek $second\n" >> $file_rank
+	printf "ZCZC $newweek $third\n" >> $file_rank
+	echo "Rank Updated!"
+
+# Script untuk menambahkan log
 elif [ $(($opt)) -eq 2 ]
 then
-	
-	read -p ">>> Enter week: " week
+	echo "---------------------------------------------------------------"
+	read -p ">> Enter week: " week
 	echo "Let's input your log!"
 	echo "L00 General Log
 	L01 SCELE related
@@ -57,25 +61,26 @@ then
 	L21 VirtualBox: install GNU/Linux, etc.
 	L22 YouTube: study, etc.
 	L99 Other (...)"
-
-	# conditional
+	echo "---------------------------------------------------------------"
+	
 	next="true"
 	while (("$next"== "true"))
 	do
-		read -p ">>> Duration: " dur
-		read -p ">>> Log code: " code
-		read -p ">>> Description: " desc
+		read -p ">> Duration: " dur
+		read -p ">> Log code: " code
+		read -p ">> Description: " desc
 		printf "ZCZC $week $dur $code $desc\n" >> $file_log
 		echo "Log updated!"
-		read -p ">>> Do you want to add more log? (y/n) " ans
+		read -p ">> Do you want to add more log? (y/n) " ans
 		if [[ "$ans" = "n" ]]
 		then
 			next="false"
 			echo "Bye!"
-			read -p ">>> control+c to exit: " ex
+			read -p ">> control+c to exit: " ex
 		fi
 	done
-
+	
+# Sign files script
 elif [ $(($opt)) -eq 3 ]
 	then
     rm -f $SHA $SHA.asc
