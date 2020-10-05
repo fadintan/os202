@@ -19,3 +19,10 @@ ZCZC W02 30 L08 Trying Something: Bash Scripting 2
 ZCZC W02 10 L08 Trying Something: Bash Scripting 3
 ZCZC W02 10 L08 Trying Something: Bash Scripting again
 ZCZC W02 40 L10 Assignment (General): Top 10 list of the week
+ZCZC W02 60 L06 Reading OSC Book
+ZCZC W02 180 L05 GSGS related: All about scripting and protection things
+ZCZC W02 120 L02 ZOOM Related: Week01 Class
+ZCZC W02 120 L10 Assignment (General): Continue writing Top 10 List
+ZCZC W02 10 L99 Other: Istirahat
+ZCZC W02 20 L05 GSGS Related: Security defenses, antivirus
+ZCZC W02 20 L10 Assignment (General): Finishing Top 10 List
