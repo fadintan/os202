@@ -3,7 +3,7 @@
 
 file_rank='myrank.txt'
 file_log='mylog.txt'
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 echo "Menu"
