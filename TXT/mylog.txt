@@ -30,7 +30,7 @@ ZCZC W02 20 L10 Assignment (General): Fixing myscript.sh
 ZCZC W02 10 L01 Scele related: saw announcement from Dosen and figuring out what to do to myscript.sh
 ZCZC W02 10 L99 Trying myscript.sh
 ZCZC W02 1 L00 General Log
-ZCZC W03 60 L06 Read OSC Chap 13
+ZCZC W03 60 L06 Read OSC 13
 ZCZC W03 20 L11 Assignment #1: Read more OSC
 ZCZC W03 30 L13 Assignment #3L Update file bash_aliases and fix some bugs
 ZCZC W03 120 L02 Zoom: Class W03
@@ -39,6 +39,8 @@ ZCZC W03 15 L14 Assignment #4: Top 3 rank
 ZCZC W03 5 L16 Assignment #6: write token
 ZCZC W03 70 L07 Demo Related: try again Demos Week02 & Week03
 ZCZC W03 5 L17 Assignment #7: Observe disk usage
-ZCZC W03 1 L18 Assignment #8: update log
+ZCZC W03 2 L18 Assignment #8: update log
 ZCZC W03 3 L19 Assignment #9: update bash script
 ZCZC W03 2 L20 Assignment #10: sign files
+ZCZC W03 120 L05 GSGS everything for TOP 10 list
+ZCZC W03 60 L15 Assignment #5: TOP 10 List
