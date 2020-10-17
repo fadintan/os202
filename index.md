@@ -9,7 +9,7 @@ My name is Intan Fadilla. Welcome to my **[Page](https://fadintan.github.io/os20
 * [Week 01](W01/)
 * [Week 02](W02/)
 * [Week 03](W03/)
-* Week 04
+* [Week 04](W04/)
 * Week 05
 * Week 06
 * Week 07
@@ -18,3 +18,10 @@ My name is Intan Fadilla. Welcome to my **[Page](https://fadintan.github.io/os20
 * Week 10
 
 _*GSGSCICILTT: "Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi"_
+<br>
+<hr>
+<br>
+### Others..
+Here is a list of my Top 3 Weekly Neighbors: **[myrank.txt](TXT/myrank.txt)**<br>
+And I also made a script to help me sign my files and insert mylog & myrank: **[myscript.sh](TXT/myscript.sh)**
+( •̀ .̫ •́ )✧

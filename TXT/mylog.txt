@@ -44,3 +44,9 @@ ZCZC W03 3 L19 Assignment #9: update bash script
 ZCZC W03 2 L20 Assignment #10: sign files
 ZCZC W03 120 L05 GSGS everything for TOP 10 list
 ZCZC W03 60 L15 Assignment #5: TOP 10 List
+ZCZC W04 10 L12 Assignment #2: Update virtual guest
+ZCZC W04 2 L15 Assignment #5: run & write token
+ZCZC W04 40 L16 Assignment #6: Download .asc & write result to myW04.txt
+ZCZC W04 5 L17 Assignment #7: Update log
+ZCZC W04 5 L18 Assignment #8: Update myscript.sh
+ZCZC W04 2 L19 Assignment #9: Make SHA256SUM
