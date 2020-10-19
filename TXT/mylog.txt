@@ -50,3 +50,8 @@ ZCZC W04 40 L16 Assignment #6: Download .asc & write result to myW04.txt
 ZCZC W04 5 L17 Assignment #7: Update log
 ZCZC W04 5 L18 Assignment #8: Update myscript.sh
 ZCZC W04 2 L19 Assignment #9: Make SHA256SUM
+ZCZC W04 150 L11 Assignment #1: Read OSC Chap. 09
+ZCZC W04 120 L11 Assignment #1: Try Week 04 Demos
+ZCZC W04 30 L13 Assignment #3: Review neighbors' GithubPage & Rank them
+ZCZC W04 180 L14 Assignment #4: Create TOP10 List of Week 04
+ZCZC W04 180 L05 GSGS Related: All about memory & c language
