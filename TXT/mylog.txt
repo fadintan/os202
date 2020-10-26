@@ -55,3 +55,8 @@ ZCZC W04 120 L11 Assignment #1: Try Week 04 Demos
 ZCZC W04 30 L13 Assignment #3: Review neighbors' GithubPage & Rank them
 ZCZC W04 180 L14 Assignment #4: Create TOP10 List of Week 04
 ZCZC W04 180 L05 GSGS Related: All about memory & c language
+ZCZC W05 120 L02 Zoom Related: Class
+ZCZC W05 60 L06 Reading OSC
+ZCZC W05 55 L07 Trying Demo Week05
+ZCZC W05 240 L05 GSGS for week 5
+ZCZC W05 180 L10 Assignment (General): do all tasks
