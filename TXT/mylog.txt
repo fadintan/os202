@@ -60,3 +60,8 @@ ZCZC W05 60 L06 Reading OSC
 ZCZC W05 55 L07 Trying Demo Week05
 ZCZC W05 240 L05 GSGS for week 5
 ZCZC W05 180 L10 Assignment (General): do all tasks
+ZCZC W06 120 L99 Studied OS with putrisalsabila & mdzkm
+ZCZC W06 120 L25 C-language: understanding everyline os W06
+ZCZC W06 100 L06 Read OSC
+ZCZC W06 180 L10 Assignment: Top 10 of week 06, rank, etc.
+ZCZC W06 60 L10 Assignment: W06
