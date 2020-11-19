@@ -65,3 +65,8 @@ ZCZC W06 120 L25 C-language: understanding everyline os W06
 ZCZC W06 100 L06 Read OSC
 ZCZC W06 180 L10 Assignment: Top 10 of week 06, rank, etc.
 ZCZC W06 60 L10 Assignment: W06
+ZCZC W07 120 L02 Zoom: Class
+ZCZC W07 120 L10 Assignment: Top 10 List
+ZCZC W07 60 L05 GSGS: All about W07 material
+ZCZC W07 99 L10 Assignment: Solving W07 problem
+ZCZC W07 10 L05 GSGS posix semaphores
