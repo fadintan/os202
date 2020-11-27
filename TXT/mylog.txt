@@ -70,3 +70,6 @@ ZCZC W07 120 L10 Assignment: Top 10 List
 ZCZC W07 60 L05 GSGS: All about W07 material
 ZCZC W07 99 L10 Assignment: Solving W07 problem
 ZCZC W07 10 L05 GSGS posix semaphores
+ZCZC W08 120 L02 ZOOM: Class
+ZCZC W08 140 L05 GSGS
+ZCZC W08 60 L10 Assignment: Weekly Top 10

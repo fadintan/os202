@@ -13,7 +13,7 @@ My name is Intan Fadilla. Welcome to my **[Page](https://fadintan.github.io/os20
 * [Week 05](W05/)
 * [Week 06](W06/)
 * [Week 07](W07/)
-* Week 08
+* [Week 08](W08/)
 * Week 09
 * Week 10
 
