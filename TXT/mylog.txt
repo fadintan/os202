@@ -73,3 +73,5 @@ ZCZC W07 10 L05 GSGS posix semaphores
 ZCZC W08 120 L02 ZOOM: Class
 ZCZC W08 140 L05 GSGS
 ZCZC W08 60 L10 Assignment: Weekly Top 10
+ZCZC W08 90 L10 Assignment: Starting LFS
+ZCZC W08 120 L10 Assignment: Setting Up Virtual Box, Debian
